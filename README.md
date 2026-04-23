@@ -156,7 +156,8 @@ Excel-based dashboarding and storytelling
 ## 📂 Files Included
 - `Netflix_Analysis.xlsx` → Complete Excel project  
 - `dashboard_default.png` → Dashboard preview  
-- Additional screenshots showing interactivity  
+- Additional screenshots showing interactivity
+- Dashboard Demo.mp4 → Visual preview 
 
 ---
 
